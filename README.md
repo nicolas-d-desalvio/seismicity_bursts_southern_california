@@ -3,8 +3,12 @@ Seismicity Burst Identification Example from "Compact Seismicity Bursts Have Dif
 
 This Jupyter Notebook demonstrates the seismicity burst identifcation calculation. It is for the burst shown in Figure 2 of the paper.
 
-Requires the QTM 12 MAD catalog, "qtm_final_12dev.hypo", and which is available at https://scedc.caltech.edu/data/qtm-catalog.html as well as the Zenodo repository above.
+Requires the QTM 12 MAD catalog, "qtm_final_12dev.hypo", and which is available at https://scedc.caltech.edu/data/qtm-catalog.html as well as the Zenodo repository below.
+
+DeSalvio, N., Fan, W., Barbour, A., & Hardebeck, J. (2026). Seismicity Burst Identification Example From "Compact Seismicity Bursts Have Different Characteristics from Regional Seismicity". Zenodo. https://doi.org/10.5281/zenodo.18944190
 
 QTM Catalog Citations:
+
 Ross, Z.E., Trugman, D.T., Hauksson, E., and P.M. Shearer (2019). Searching for Hidden Earthquakes in Southern California. Science. doi: 10.1126/science.aaw6888
+
 SCEDC. (2013). Southern California Earthquake Data Center. doi: 10.7909/C3WD3xH1
