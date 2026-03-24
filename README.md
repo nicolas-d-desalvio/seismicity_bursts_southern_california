@@ -1,5 +1,7 @@
 # seismicity_bursts_southern_california
-Seismicity Burst Identification Example from "Compact Seismicity Bursts Have Different Characteristics from Regional Seismicity", DeSalvio et al., JGR Solid Earth, 2026 (In Review)
+Seismicity Burst Identification Example from "Compact Seismicity Bursts Have Different Characteristics from Regional Seismicity" 
+
+DeSalvio, N. D., Fan, W., Barbour, A. J., & Hardebeck, J. L. (2026). Compact seismicity bursts have different characteristics from regional seismicity. Journal of Geophysical Research: Solid Earth, 131, e2025JB032917. https://doi.org/10.1029/2025JB032917
 
 This Jupyter Notebook demonstrates the seismicity burst identifcation calculation. It is for the burst shown in Figure 2 of the paper.
 
